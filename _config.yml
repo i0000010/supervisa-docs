@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Supervisa Docs
+description: Documentation for supervisa.io
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Full website: https://www.supervisa.io
+
+logo: https://prenota-agent.s3.us-east-2.amazonaws.com/logo.png
+favicon_ico: https://prenota-agent.s3.us-east-2.amazonaws.com/favicon-32x32.png
